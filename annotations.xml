@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>3325994</id>
+      <size>27</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2025-11-30 10:24:19.946406+00:00</created>
+      <updated>2025-11-30 10:38:32.427746+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>26</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>3327348</id>
+          <start>0</start>
+          <stop>26</stop>
+          <url>https://app.cvat.ai/api/jobs/3325994</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>kalpesh1</username>
+        <email>kr342803@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>label</name>
+          <color>#fe283e</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2025-11-30 10:44:02.581405+00:00</dumped>
+  </meta>
+  <image id="0" name="reverseWaybill-156387426414724544_1.jpg" width="3840" height="2160">
+    <box label="label" source="manual" occluded="0" xtl="2475.01" ytl="2023.68" xbr="3255.64" ybr="2114.63" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="reverseWaybill-160390797970200578_1.jpg" width="3840" height="2160">
+    <box label="label" source="manual" occluded="0" xtl="1179.88" ytl="1637.13" xbr="2168.93" ybr="1743.19" rotation="356.70" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="reverseWaybill-161462098390505344_1.jpg" width="2160" height="3840">
+  </image>
+  <image id="3" name="reverseWaybill-161820476409495744_1.jpg" width="2160" height="3840">
+    <box label="label" source="manual" occluded="0" xtl="941.87" ytl="1320.48" xbr="1076.61" ybr="2270.38" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="reverseWaybill-161827124813349056_1.jpg" width="2160" height="3840">
+    <box label="label" source="manual" occluded="0" xtl="355.77" ytl="1300.27" xbr="551.14" ybr="2802.59" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="reverseWaybill-161889931202248896_1.jpg" width="3840" height="2160">
+    <box label="label" source="manual" occluded="0" xtl="1353.33" ytl="1784.95" xbr="2456.06" ybr="1894.84" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="reverseWaybill-162107205368239936_1.jpg" width="2160" height="3840">
+    <box label="label" source="manual" occluded="0" xtl="32.40" ytl="2310.80" xbr="160.40" ybr="3152.91" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="reverseWaybill-162127075969633920_1.jpg" width="3840" height="2160">
+  </image>
+  <image id="8" name="reverseWaybill-162533794288078400_1.jpg" width="2160" height="3840">
+    <box label="label" source="manual" occluded="0" xtl="66.08" ytl="2654.38" xbr="214.29" ybr="3469.54" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="reverseWaybill-162563926371110528_1.jpg" width="2160" height="3840">
+    <box label="label" source="manual" occluded="0" xtl="234.50" ytl="1482.17" xbr="416.40" ybr="2593.75" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="reverseWaybill-162590579457558528_1.jpg" width="2160" height="3840">
+  </image>
+  <image id="11" name="reverseWaybill-162822952260583552_1.jpg" width="3840" height="2160">
+    <box label="label" source="manual" occluded="0" xtl="1376.06" ytl="1068.74" xbr="2213.54" ybr="1193.79" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="reverseWaybill-163138358833942080_1.jpg" width="2160" height="3840">
+    <box label="label" source="manual" occluded="0" xtl="45.20" ytl="2634.17" xbr="208.50" ybr="3592.90" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="reverseWaybill-163167305864402752_1.jpg" width="3840" height="2160">
+    <box label="label" source="manual" occluded="0" xtl="1383.64" ytl="1690.21" xbr="2520.50" ybr="1788.74" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="reverseWaybill-163168391573114432_1.jpg" width="2160" height="3840">
+    <box label="label" source="manual" occluded="0" xtl="477.20" ytl="1398.80" xbr="617.79" ybr="2584.90" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="reverseWaybill-163233702292313922_1.jpg" width="2160" height="3840">
+    <box label="label" source="manual" occluded="0" xtl="355.94" ytl="1531.43" xbr="462.42" ybr="2626.59" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="reverseWaybill-163253278646505088_1.jpg" width="2160" height="3840">
+    <box label="label" source="manual" occluded="0" xtl="268.78" ytl="1341.96" xbr="428.32" ybr="2448.48" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="reverseWaybill-163278430531063296_1.jpg" width="2160" height="3840">
+    <box label="label" source="manual" occluded="0" xtl="249.83" ytl="1345.75" xbr="360.11" ybr="2486.40" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="reverseWaybill-163513920653659776_1.jpg" width="2160" height="3840">
+    <box label="label" source="manual" occluded="0" xtl="143.73" ytl="2615.22" xbr="265.37" ybr="3570.17" rotation="357.00" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="reverseWaybill-163575804188803200_1.jpg" width="3840" height="2160">
+    <box label="label" source="manual" occluded="0" xtl="1440.48" ytl="1038.42" xbr="2266.59" ybr="1144.53" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="reverseWaybill-163629705512179520_1.jpg" width="2160" height="3840">
+    <box label="label" source="manual" occluded="0" xtl="378.67" ytl="1262.38" xbr="496.53" ybr="2312.06" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="reverseWaybill-163869082838745216_1.jpg" width="2160" height="3840">
+    <box label="label" source="manual" occluded="0" xtl="902.00" ytl="1997.54" xbr="1008.10" ybr="2637.96" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="reverseWaybill-164010403918364801_1.jpg" width="3840" height="2160">
+    <box label="label" source="manual" occluded="0" xtl="2403.01" ytl="2061.58" xbr="3176.06" ybr="2152.50" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="reverseWaybill-164032400488224576_1.jpg" width="3840" height="2160">
+    <box label="label" source="manual" occluded="0" xtl="1535.22" ytl="1053.58" xbr="2342.38" ybr="1144.53" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="reverseWaybill-164219522434499264_1.jpg" width="2160" height="3840">
+    <box label="label" source="manual" occluded="0" xtl="882.67" ytl="1599.64" xbr="1000.53" ybr="2512.90" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="reverseWaybill-164659046174134464_1.jpg" width="2160" height="3840">
+    <box label="label" source="manual" occluded="0" xtl="18.67" ytl="2414.38" xbr="125.16" ybr="3297.33" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="reverseWaybill-164712656358576320_1.jpg" width="3840" height="2160">
+    <box label="label" source="manual" occluded="0" xtl="2535.64" ytl="2042.63" xbr="3191.22" ybr="2156.32" z_order="0">
+    </box>
+  </image>
+</annotations>

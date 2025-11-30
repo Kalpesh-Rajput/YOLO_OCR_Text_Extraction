@@ -1,0 +1,7 @@
+ultralytics
+pytesseract
+easyocr
+cv2
+yolov5
+pillow
+

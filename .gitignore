@@ -1,0 +1,57 @@
+# -----------------------------
+# Python
+# -----------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+*.pickle
+*.DS_Store
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+ocrenv/
+
+# VS Code
+.vscode/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+logs/
+
+# Cache
+.cache/
+*.cache
+
+# Build
+build/
+dist/
+*.egg-info
+
+
+
+# -----------------------------
+# Streamlit
+# -----------------------------
+.streamlit/
+
+# -----------------------------
+# Windows specific
+# -----------------------------
+Thumbs.db
+desktop.ini
+
+# -----------------------------
+# Other tools
+# -----------------------------
+.DS_Store
+*.swp
+*.swo

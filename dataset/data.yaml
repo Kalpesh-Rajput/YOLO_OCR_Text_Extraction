@@ -1,0 +1,8 @@
+# YOLO dataset configuration
+path: dataset   # path to dataset root
+
+train: images/train
+val: images/val
+
+names:
+  0: label   # your class name from CVAT
