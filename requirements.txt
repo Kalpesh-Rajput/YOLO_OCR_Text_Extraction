@@ -4,4 +4,8 @@ easyocr
 cv2
 yolov5
 pillow
-
+opencv-python
+numpy
+torch
+streamlit
+pandas
